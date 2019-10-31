@@ -127,6 +127,16 @@ aliases:
     - hoegaarden # Patch Release Team
     - justaugustus # SIG Chair
     - tpepper # SIG Chair / Patch Release Team
+  release-notes-approvers:
+    - jeefy
+    - marpaia
+    - onyiny-ang
+    - saschagrunert
+  release-notes-reviewers:
+    - jeefy
+    - marpaia
+    - onyiny-ang
+    - saschagrunert
 
   sig-storage-reviewers:
     - saad-ali
